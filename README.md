@@ -1,4 +1,12 @@
 Email --> breadforhire@proton.me
+My business card --> https://breadforhire.github.io/business-card/
+
+
+
+
+
+
+
 
 
 
@@ -8,3 +16,8 @@ Email --> breadforhire@proton.me
 
 
 If you are looking to colloborate reach out to me!
+
+
+
+
+
