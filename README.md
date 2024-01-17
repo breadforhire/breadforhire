@@ -1,4 +1,3 @@
-Email --> breadforhire@proton.me
 
 
 
